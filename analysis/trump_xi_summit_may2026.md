@@ -1,12 +1,12 @@
 # Case Study 1: Trump–Xi Beijing Summit
 **May 14–15, 2026**  
-**Sources:** CNN (English) · Al Jazeera Arabic · Xinhua / People's Daily (Chinese)
+**Sources:** CNN (English); Al Jazeera (Arabic); Xinhua / People's Daily (Chinese)
 
 ---
 
 ## Methodology
 
-Articles were retrieved in their source languages and analyzed across five dimensions: outcome framing, lexical choice on key referents, epistemic modality, agency and voice, and a composite structural divergence score. The goal is not to identify which source is "biased" but to surface systematic structural differences in how the same event is encoded across languages and editorial traditions.
+Articles were retrieved in their source languages and analyzed across five dimensions: outcome framing, lexical choice on key referents, epistemic modality, agency and voice, and a composite structural divergence score. The goal here is not to identify which source is "biased" but to surface systematic structural differences in how the same event is encoded across languages and editorial traditions.
 
 ---
 
@@ -16,16 +16,16 @@ Articles were retrieved in their source languages and analyzed across five dimen
 The summit is framed primarily through what didn't happen. "No substantive agreements," "failure to commit on Taiwan," "meetings ended without any substantive agreements announced on key issues." Trump's claims are immediately hedged against China's non-confirmation. The dominant lens is accountability journalism — measuring the gap between what was promised and what was delivered.
 
 **Al Jazeera Arabic — "Symbolic victory for China"**  
-Al Jazeera synthesizes US press criticism (directly citing Politico, Washington Post, Foreign Policy) but adds its own analytical layer: the summit was a Chinese soft-power win. Xi "managed the scene" (أدار المشهد), Beijing set the terms of parity. The frame is geopolitical theater — who gained face, who conceded ground. Notably, AJ goes further than the American outlets it's quoting, asserting China's rise as settled fact rather than contested interpretation.
+Al Jazeera synthesizes US press criticism (directly citing Politico, Washington Post, Foreign Policy) but adds its own analytical layer: the summit was a Chinese soft-power win. Xi "managed the scene" (أدار المشهد), Beijing set the terms of parity. The frame is geopolitical theater, discussing who gained face, who conceded ground. Notably, AJ goes further than the American outlets it's quoting, asserting China's rise as settled fact rather than contested interpretation.
 
 **Xinhua / People's Daily — "Historic partnership and shared stewardship"**  
-Xi is presented as the architect of a new world order, asking "historical questions, world questions, people's questions" (历史之问、世界之问、人民之问) that only great-power leaders can answer together. The summit is not about what was achieved but what was affirmed. Cooperation language saturates the text; disagreement is recast as "manageable differences." A new bilateral doctrine is formally named: "China-US constructive strategic stable relationship" (中美建设性战略稳定关系).
+Xi is presented as the architect of a new world order, asking "historical questions, world questions, people's questions" (历史之问、世界之问、人民之问) that only great-power leaders can answer together. The summit is not about what was achieved but what was affirmed. Cooperation language is most prominent in the text, and disagreement is recast as "manageable differences." A new bilateral doctrine is formally named: "China-US constructive strategic stable relationship" (中美建设性战略稳定关系).
 
 ---
 
 ## 2. Lexical Choice
 
-Same referent, three different labels — this is where ideological load becomes measurable.
+Different labels are given to the same labels, highlighting ideological differences.
 
 **Xi's title at the summit:**
 | Source | Label | Notes |
@@ -119,7 +119,7 @@ Additional Xinhua markers: *强调 (emphasizes), 本质是 (the essence is), 致
 - Trump appears as Xi's interlocutor: "我愿同特朗普总统" — "I wish [to navigate with] President Trump" — secondary, almost a prop
 - Xi is positioned as answering not just Trump but *history itself*: "历史之问、世界之问、人民之问" — Xi's agency is civilizational, not merely political
 
-**Pattern across all three:** All three sources agree Xi has more agency than Trump — but frame it differently. CNN: Trump failed to act. Al Jazeera: Xi strategically exploited the moment. Xinhua: Xi is the natural author of history.
+**Pattern across all three:** All three sources agree Xi has more agency than Trump, but they frame it differently. CNN: Trump failed to act. Al Jazeera: Xi strategically exploited the moment. Xinhua: Xi is the natural author of history.
 
 ---
 
@@ -137,4 +137,4 @@ Additional Xinhua markers: *强调 (emphasizes), 本质是 (the essence is), 致
 
 ## Key Finding
 
-The most technically significant result from this case study is the **factive verb divergence**: Xinhua's systematic use of "指出" (points out) vs. CNN's "said/touted" represents a *grammatically encodable* difference in epistemic commitment. This is not subjective or interpretive — it is a verifiable property of the source-language text that automated analysis can detect at scale. It suggests that cross-lingual framing analysis operating only on translated text is systematically missing the most ideologically loaded signals.
+The most technically significant result from this case study is the **factive verb divergence**: Xinhua's systematic use of "指出" (points out) vs. CNN's "said/touted" represents a *grammatically encodable* difference in epistemic commitment. This is less interpretive, and more a verifiable property of the source-language text that automated analysis can detect at scale. It suggests that cross-lingual framing analysis operating only on translated text is systematically missing the most ideologically loaded signals.
